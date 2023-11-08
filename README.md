@@ -6,9 +6,12 @@ The app is inspired by the tutorial called MERN Auth by Net Ninja available on Y
 # Installation and running the app
 # Install dependencies
 run npm install
-# Start the app
-Starting the backend app navigate to the backend folder
-run the following command ***npm run start**
-***Starting the frontend app***, navigate inside the frontend folder
+# Starting the app
+# Starting the backend 
+Navigate to the backend folder
+run the following command 
+***npm run start**
+# Starting the frontend app
+Navigate inside the frontend folder
 run the following command
 ***npm run dev**
