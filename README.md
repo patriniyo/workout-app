@@ -10,8 +10,8 @@ run npm install
 # Starting the backend 
 Navigate to the backend folder
 run the following command 
-***npm run start**
+**npm run start**
 # Starting the frontend app
 Navigate inside the frontend folder
 run the following command
-***npm run dev**
+**npm run dev**
